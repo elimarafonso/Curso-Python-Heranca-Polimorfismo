@@ -1,4 +1,4 @@
-RESUMO PYTHON:
+RESUMO PYTHON::
 
 https://docs.python.org/pt-br/3/library/stdtypes.html
 (link mostra metodos embutidos no python)
