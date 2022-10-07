@@ -14,6 +14,6 @@ class Serie:
 vingadores = Filme("vingadores - guerra infinita", 2018, 160)
 print(f'Nome: {vingadores.nome} - Ano: {vingadores.ano} - Duração: {vingadores.duracao}')
 
-sheldon = Serie("yong sheldon", 2017, 7)
+sheldon = Serie("yong sheldonn", 2017, 7)
 print(f'Nome: {sheldon.nome} - Ano: {sheldon.ano} - Temporadas: {sheldon.temporadas}')
 
